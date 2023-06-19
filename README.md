@@ -1,3 +1,3 @@
 # LearnHub
-<pNew tsx app
+<p>New tsx app
 team's work
